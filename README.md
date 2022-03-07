@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiruzu</h1>
 <h3 align="center">Am a 17 year old game developer looking to major in computer science.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiruzujs" alt="kiruzujs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kiruzujs" target="blank"><img src="https://img.shields.io/twitter/follow/kiruzujs?logo=twitter&style=for-the-badge" alt="kiruzujs" /></a> </p>
 
 - 🔭 I’m currently working on starting a **indie game studio**
 
