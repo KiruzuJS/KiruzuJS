@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiruzu</h1>
-<h3 align="center">Am a 17 year old game developer looking to major in computer science.</h3>
+<h3 align="center">Am a 16 year old game developer looking to major in computer science.</h3>
 
 - 🔭 I’m currently working on starting a **indie game studio**
 
